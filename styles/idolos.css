@@ -8,7 +8,10 @@ table,
 th,
 td {
     border: 1px solid;
-    
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
 }
 .bodyt{
     width: 70em;
